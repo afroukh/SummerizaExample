@@ -23,10 +23,5 @@ namespace SummerizaExample
             _temperature = 0.2f;
         }
 
-
-        public async Task<AnalyzedDocument> AnalyzeTextAsync(string documentId, string title, string content)
-        {
-
-        }
     }
 }
